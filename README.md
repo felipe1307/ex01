@@ -1,1 +1,2 @@
-# ex01
+Meu primeiro projeto GIT.
+instruções prar usuários
